@@ -1,4 +1,4 @@
-# SMS_Sprint5
+# Student Management System 
 
 Simple Student Management Sample (Sprint 5)
 
