@@ -1,0 +1,14 @@
+F:\Tawjeh\sprint5\SMS_Sprint5\SMS_Sprint5\bin\Debug\net10.0\SMS_Sprint5.exe
+F:\Tawjeh\sprint5\SMS_Sprint5\SMS_Sprint5\bin\Debug\net10.0\SMS_Sprint5.deps.json
+F:\Tawjeh\sprint5\SMS_Sprint5\SMS_Sprint5\bin\Debug\net10.0\SMS_Sprint5.runtimeconfig.json
+F:\Tawjeh\sprint5\SMS_Sprint5\SMS_Sprint5\bin\Debug\net10.0\SMS_Sprint5.dll
+F:\Tawjeh\sprint5\SMS_Sprint5\SMS_Sprint5\bin\Debug\net10.0\SMS_Sprint5.pdb
+F:\Tawjeh\sprint5\SMS_Sprint5\SMS_Sprint5\obj\Debug\net10.0\SMS_Sprint5.GeneratedMSBuildEditorConfig.editorconfig
+F:\Tawjeh\sprint5\SMS_Sprint5\SMS_Sprint5\obj\Debug\net10.0\SMS_Sprint5.AssemblyInfoInputs.cache
+F:\Tawjeh\sprint5\SMS_Sprint5\SMS_Sprint5\obj\Debug\net10.0\SMS_Sprint5.AssemblyInfo.cs
+F:\Tawjeh\sprint5\SMS_Sprint5\SMS_Sprint5\obj\Debug\net10.0\SMS_Sprint5.csproj.CoreCompileInputs.cache
+F:\Tawjeh\sprint5\SMS_Sprint5\SMS_Sprint5\obj\Debug\net10.0\SMS_Sprint5.dll
+F:\Tawjeh\sprint5\SMS_Sprint5\SMS_Sprint5\obj\Debug\net10.0\refint\SMS_Sprint5.dll
+F:\Tawjeh\sprint5\SMS_Sprint5\SMS_Sprint5\obj\Debug\net10.0\SMS_Sprint5.pdb
+F:\Tawjeh\sprint5\SMS_Sprint5\SMS_Sprint5\obj\Debug\net10.0\SMS_Sprint5.genruntimeconfig.cache
+F:\Tawjeh\sprint5\SMS_Sprint5\SMS_Sprint5\obj\Debug\net10.0\ref\SMS_Sprint5.dll
